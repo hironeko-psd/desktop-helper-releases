@@ -1,0 +1,10 @@
+# Binary assets are uploaded to Releases, never committed to Git history.
+/待上传/
+*.exe
+*.zip
+manifest.json
+manifest.sig
+.env
+.env.*
+*.pem
+*.key
